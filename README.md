@@ -28,3 +28,9 @@ Use case:
 
 Snippet location:
 snippets/product-badge.liquid
+
+## Practical Shopify Features
+
+This repository contains simple Shopify Liquid snippets
+used in real dropshipping stores for product pages,
+order notes, and availability handling.
