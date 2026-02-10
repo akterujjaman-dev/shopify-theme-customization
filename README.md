@@ -16,3 +16,15 @@ used for real store improvements.
 - HTML, CSS
 - Theme customization
 - Conversion-focused improvements
+## Real Example: Product Availability Badge
+
+This snippet adds a dynamic product availability badge
+(In Stock / Sold Out) using Shopify Liquid.
+
+Use case:
+- Improves product page clarity
+- Enhances user experience
+- Helps conversion-focused themes
+
+Snippet location:
+snippets/product-badge.liquid
